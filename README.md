@@ -125,4 +125,6 @@ endmodule
 
 ![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/l6.png)
 
-### RESULTS 
+### RESULTS
+Thus the program to implement shift registers is done successful.
+
