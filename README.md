@@ -73,7 +73,7 @@ endmodule
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/new%20L2.png)
 
 ### PROGRAM 2:
 ```
