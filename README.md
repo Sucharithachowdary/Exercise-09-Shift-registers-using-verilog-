@@ -119,7 +119,7 @@ endmodule
 ```
 ### RTL LOGIC  REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/l5.png)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
