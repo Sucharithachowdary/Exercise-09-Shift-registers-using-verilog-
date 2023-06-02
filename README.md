@@ -69,11 +69,11 @@ endmodule
 ```
 ### RTL LOGIC  REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/L1.png)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/L2.png)
 
 ### PROGRAM 2:
 ```
@@ -98,11 +98,11 @@ endmodule
 
 ### RTL LOGIC  REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/L3.png)
 
 ### TIMING DIGRAMS FOR SHIFT REGISTERS
 
-![output]()
+![output](https://github.com/Sucharithachowdary/Exercise-09-Shift-registers-using-verilog-/blob/main/L4.png)
 
 ### PROGRAM3:
 ```
